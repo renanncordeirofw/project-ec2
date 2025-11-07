@@ -9,7 +9,7 @@ app = Flask(__name__)
 # AWS CONFIG
 # ===========================
 SECRET_NAME = "rds!db-bcf2dcef-fc12-4675-8142-efdd5287f8ae"
-REGION_NAME = "us-east-1"  # altere para sua região
+REGION_NAME = "us-east-2"  # altere para sua região
 
 PARAM_DB_HOST = "/myproject/db/host"
 PARAM_DB_NAME = "/myproject/db/name"
